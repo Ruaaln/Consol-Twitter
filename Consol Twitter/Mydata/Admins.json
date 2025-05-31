@@ -1,0 +1,68 @@
+[
+  {
+    "AdminName": "rugo",
+    "AdminPassword": "r123",
+    "AdminEmail": "ruslanserifov70@gmail.com",
+    "Posts": [
+      {
+        "Content": "comment 1",
+        "CreatedAt": "2025-05-31T23:43:19.9013307+04:00",
+        "Likes": 5,
+        "Shares": 51,
+        "Comments": [
+          {
+            "Text": "bu bir test consol komentidir",
+            "Author": {
+              "userName": "rugo user",
+              "Password": "r123",
+              "Email": "ruslanserifov70@gmail.com"
+            },
+            "CreatedAt": "2025-05-31T23:46:03.0011758+04:00"
+          },
+          {
+            "Text": "test2 ",
+            "Author": {
+              "userName": "rugo user",
+              "Password": "r123",
+              "Email": "ruslanserifov70@gmail.com"
+            },
+            "CreatedAt": "2025-06-01T00:14:07.4944495+04:00"
+          },
+          {
+            "Text": "asdfgjkl;oiuy tresc vbnmkiuytre scvbnjuytr",
+            "Author": {
+              "userName": "rugo user",
+              "Password": "r123",
+              "Email": "ruslanserifov70@gmail.com"
+            },
+            "CreatedAt": "2025-06-01T01:20:30.296985+04:00"
+          }
+        ]
+      },
+      {
+        "Content": "Coment - 2",
+        "CreatedAt": "2025-05-31T23:43:36.7251557+04:00",
+        "Likes": 4,
+        "Shares": 44,
+        "Comments": [
+          {
+            "Text": "bu mnim commentimdir",
+            "Author": {
+              "userName": "rusii",
+              "Password": "12345",
+              "Email": "ruslanserifov100@gmail.com"
+            },
+            "CreatedAt": "2025-06-01T00:57:32.8182212+04:00"
+          }
+        ]
+      },
+      {
+        "Content": "comment \u003C3\u003E",
+        "CreatedAt": "2025-06-01T01:37:06.1193835+04:00",
+        "Likes": 0,
+        "Shares": 1,
+        "Comments": []
+      }
+    ]
+  }
+]
