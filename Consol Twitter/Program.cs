@@ -247,7 +247,7 @@ class Program
                     ConsoleHelper.PrintColored($"=<< {A.AdminName} >>===============================================================", ConsoleColor.Magenta);
                     ConsoleHelper.PrintColored($"\n{post.Content}", ConsoleColor.White);
                     ConsoleHelper.PrintColored($"\n\n=< {post.CreatedAt} >===< Comment: {post.Comments.Count} >==< Like: {post.Likes} >==< Reyting: {post.Shares} >========", ConsoleColor.Magenta);
-                    ConsoleHelper.PrintColored("[c] - Comment | [n] - Newxt | [l] - Like | [0] Exit\n", ConsoleColor.DarkBlue);
+                    ConsoleHelper.PrintColored($"[c] - Comment {post.Comments.Count} | [n] - Newxt | [l] - Like {post.Likes} | [0] Exit\n", ConsoleColor.DarkBlue);
 
 
                     var key = Console.ReadKey(true).KeyChar;
