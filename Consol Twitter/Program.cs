@@ -428,7 +428,7 @@ class Program
                             string? password = Console.ReadLine();
                             var newAdmin = new Admin(name, password, email);
                             var adminss = ReadAdmins();
-                            admins.Add(newAdmin);
+                            adminss.Add(newAdmin);
                             WriteAdmins(adminss);
                             ConsoleHelper.PrintColored("Admin yaradıldı!\n Davam etmey ucun ENTER duymesini basin!", ConsoleColor.Green);
                             Console.ReadKey();
