@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "AdminName": "rugo",
+    "AdminPassword": "r123",
+    "AdminEmail": "ruslanserifov70@gmail.com",
+    "Posts": [
+      {
+        "Content": "Post - 1",
+        "CreatedAt": "2025-06-01T18:42:42.1774696+04:00",
+        "Likes": 1,
+        "Shares": 19,
+        "Comments": [
+          {
+            "Text": "commend - 2",
+            "Author": {
+              "userName": "ruslan",
+              "Password": "r123",
+              "Email": "ruslanserifov70@gmail.com"
+            },
+            "CreatedAt": "2025-06-01T18:46:30.1913337+04:00"
+          }
+        ]
+      },
+      {
+        "Content": "POrt -2 ",
+        "CreatedAt": "2025-06-01T18:42:54.711897+04:00",
+        "Likes": 0,
+        "Shares": 19,
+        "Comments": [
+          {
+            "Text": "commend - 1",
+            "Author": {
+              "userName": "ruslan",
+              "Password": "r123",
+              "Email": "ruslanserifov70@gmail.com"
+            },
+            "CreatedAt": "2025-06-01T18:46:03.3677002+04:00"
+          }
+        ]
+      },
+      {
+        "Content": "port - 3",
+        "CreatedAt": "2025-06-01T18:43:07.5519353+04:00",
+        "Likes": 0,
+        "Shares": 19,
+        "Comments": []
+      }
+    ]
+  }
+]
