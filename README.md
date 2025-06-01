@@ -37,7 +37,7 @@
 
 **Rugo**  
 *Consol twitter*
-![on izleme](promotional photo\Consol-twitter-foto.png)
+![on izleme](Consol-twitter-foto.png)
 
 
 > Hər şey konsolda baş verir, amma sanki bir mikro sosial şəbəkəyə girirsən! 🖤
