@@ -36,4 +36,11 @@
 ## 👨‍💻 Tərtibatçı
 
 **Rugo**  
+*Consol twitter*
+![on izleme]()
+
+
 > Hər şey konsolda baş verir, amma sanki bir mikro sosial şəbəkəyə girirsən! 🖤
+
+
+
